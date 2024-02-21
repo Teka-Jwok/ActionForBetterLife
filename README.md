@@ -1,5 +1,5 @@
 # ActionForBetterLife
-Website for NGO(called Action for better Life) in Gambella.
+Website for NGO(called Action for better Life).
 
 http://actionforbetterlife.rf.gd
 
